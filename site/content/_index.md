@@ -1,5 +1,6 @@
 ---
-title: "Great coffee with a conscience"
+title: "Philigret Assessoria Imobiliária"
+description: "Fundada há mais de 20 anos com atuação nos ramos de locação, administração e venda de imóveis, com assessoria jurídica especializada. Somos uma equipe treinada com permanente aperfeiçoamento que resulta em serviços de qualidade, priorizando profissionalismo, honestidade e transparência na relação profissional com locadores, locatários, vendedores e compradores."
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
